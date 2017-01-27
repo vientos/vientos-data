@@ -1,11 +1,8 @@
 {
   "name": "vientos-dev-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "data used in development of vientos stack",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
   "license": "Unlicense"
 }
