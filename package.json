@@ -1,5 +1,5 @@
 {
-  "name": "vientos-dev-data",
+  "name": "vientos-data",
   "version": "0.0.2",
   "description": "data used in development of vientos stack",
   "main": "index.js",
