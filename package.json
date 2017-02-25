@@ -1,7 +1,7 @@
 {
   "name": "vientos-data",
-  "version": "0.0.2",
-  "description": "data used in development of vientos stack",
+  "version": "0.0.4",
+  "description": "data used in vientos vientos platform",
   "main": "index.js",
   "author": "",
   "license": "Unlicense"
