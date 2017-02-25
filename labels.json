@@ -26,7 +26,15 @@
         "link": "Connect and Recommend",
         "art": "Share your Art",
         "funding":"Crowdfunding",
-        "button:clear": "Clear"
+        "button:menu": "Menu",
+        "button:clear": "Clear",
+        "button:profile": "Profile",
+        "button:projects": "Projects",
+        "button:filters": "Filters",
+        "button:map": "Map",
+        "nouns:offers": "Offers",
+        "nouns:requests": "Requests",
+        "nouns:collaborations": "Collaborations"
     },
     "es": {
         "humanrights": "Derechos Humanos",
@@ -55,6 +63,14 @@
         "link": "Recomienda y vincula",
         "art": "Comparte tu arte",
         "funding":"Fondeo Colectivo",
-        "button:clear": "Claro"
+        "button:menu": "Menu",
+        "button:clear": "Borrar",
+        "button:profile": "Perfil",
+        "button:projects": "Proyectos",
+        "button:filters": "Filtros",
+        "button:map": "Mapa",
+        "nouns:offers": "Ofertas",
+        "nouns:requests": "Solicitudes",
+        "nouns:collaborations": "Colaboraciones"
     }
 }
