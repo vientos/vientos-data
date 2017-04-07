@@ -42,7 +42,11 @@
         "nouns:offer": "Offer",
         "nouns:requests": "Requests",
         "nouns:request": "Request",
-        "nouns:collaborations": "Collaborations"
+        "nouns:collaborations": "Collaborations",
+        "label:logo-url": "Logo URL",
+        "label:org-name": "Organization name",
+        "label:org-description": "Description",
+        "button:add-link": "Add link"
     },
     "es": {
         "humanrights": "Derechos Humanos",
@@ -87,6 +91,10 @@
         "nouns:offer": "Oferta",
         "nouns:requests": "Solicitudes",
         "nouns:request": "Solicitude",
-        "nouns:collaborations": "Colaboraciones"
+        "nouns:collaborations": "Colaboraciones",
+        "label:logo-url": "URL del logo",
+        "label:org-name": "Nombre de la Organización",
+        "label:org-description": "Descripción",
+        "button:add-link": "Agrega Enlace"
     }
 }
