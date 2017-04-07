@@ -46,7 +46,8 @@
         "label:logo-url": "Logo URL",
         "label:org-name": "Organization name",
         "label:org-description": "Description",
-        "button:add-link": "Add link"
+        "button:add-link": "Add link",
+        "button:add-contact": "Add contact"
     },
     "es": {
         "humanrights": "Derechos Humanos",
@@ -95,6 +96,7 @@
         "label:logo-url": "URL del logo",
         "label:org-name": "Nombre de la Organización",
         "label:org-description": "Descripción",
-        "button:add-link": "Agrega Enlace"
+        "button:add-link": "Agrega Enlace",
+        "button:add-contact": "Agrega Contacto"
     }
 }
