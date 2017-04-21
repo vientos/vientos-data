@@ -50,6 +50,7 @@
         "label:org-name": "Organization name",
         "label:org-description": "Description",
         "button:add-link": "Add link",
+        "button:collaborations": "Collaborate",
         "button:add-contact": "Add contact"
     },
     "es": {
@@ -103,6 +104,7 @@
         "label:org-name": "Nombre de la Organización",
         "label:org-description": "Descripción",
         "button:add-link": "Agrega Enlace",
+        "button:collaborations": "Colabora",
         "button:add-contact": "Agrega Contacto"
     }
 }
