@@ -53,6 +53,7 @@
         "button:collaborations": "Collaborate",
         "button:add-contact": "Add contact",
         "button:logout": "Log out",
+        "button:new-intent": "Add new intent",
         "button:my-categories": "My Categories"
     },
     "es": {
@@ -109,6 +110,7 @@
         "button:collaborations": "Colabora",
         "button:add-contact": "Agrega Contacto",
         "button:logout": "Cerrar sesión",
+        "button:new-intent": "Agrega nueva intención",
         "button:my-categories": "Mis Categorias"
     }
 }
