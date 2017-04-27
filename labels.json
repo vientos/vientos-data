@@ -54,12 +54,16 @@
         "label:collaboration-type": "Collaboration Type",
         "label:collaboration-condition": "Collaboration Condition",
         "label:expiry-date": "Expiry date",
+        "label:all": "All",
+        "label:city-wide": "City wide",
+        "label:specific-location": "With specific location",
         "button:add-link": "Add link",
         "button:collaborations": "Collaborate",
         "button:add-contact": "Add contact",
         "button:logout": "Log out",
         "button:new-intent": "Add new intent",
-        "button:my-categories": "My Categories"
+        "button:my-categories": "My Categories",
+        "button:filter-boundingbox": "Use current map limits"
     },
     "es": {
         "humanrights": "Derechos Humanos",
@@ -115,12 +119,16 @@
         "label:org-description": "Descripción",
         "label:collaboration-type": "Tipo de colaboración",
         "label:collaboration-condition": "Condicion de colaboración",
-        "label:expiry-date": "Fecha de expiracion",
+        "label:expiry-date": "Fecha de expiración",
+        "label:all": "Todos",
+        "label:city-wide": "En toda la ciudad",
+        "label:specific-location": "Con locación específica",
         "button:add-link": "Agrega Enlace",
         "button:collaborations": "Colabora",
         "button:add-contact": "Agrega Contacto",
         "button:logout": "Cerrar sesión",
         "button:new-intent": "Agrega nueva intención",
-        "button:my-categories": "Mis Categorias"
+        "button:my-categories": "Mis Categorias",
+        "button:filter-boundingbox": "Usar límites actuales del mapa"
     }
 }
