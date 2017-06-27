@@ -30,6 +30,7 @@
         "requests": "Requests",
         "request": "Request",
         "collaborations": "Collaborations",
+        "type-message": "Type a message",
         "button:menu": "Menu",
         "button:clear": "Clear",
         "button:save": "Save",
@@ -106,7 +107,8 @@
         "label:support-feature": "Support development of this feature",
         "subject:new-conversation": "New conversation",
         "subject:new-message": "New message",
-        "subject:new-review": "New review"
+        "subject:new-review": "New review",
+        "hint:change-turn-needs-message": "You also need to send a message to change the turn"
     },
     "es": {
         "humanrights": "Derechos Humanos",
@@ -139,6 +141,7 @@
         "requests": "Solicitudes",
         "request": "Solicitud",
         "collaborations": "Colaboraciones",
+        "type-message": "Escribe un mensaje",
         "button:menu": "Menu",
         "button:clear": "Limpiar",
         "button:save": "Guardar",
@@ -216,6 +219,7 @@
         "label:support-feature": "Apoya el desarrollo de esta funcionalidad",
         "subject:new-conversation": "Nueva conversación",
         "subject:new-message": "Nuevo mensaje",
-        "subject:new-review": "Nueva evaluación"
+        "subject:new-review": "Nueva evaluación",
+        "hint:change-turn-needs-message": "También necesitas enviar un mensaje para cambiar de turno"
     }
 }
