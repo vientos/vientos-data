@@ -1,6 +1,4 @@
 [{
-  "id": "productsservices"
-}, {
   "id": "humanrights"
 }, {
     "id": "environment"
@@ -24,6 +22,4 @@
     "id": "technology"
 }, {
     "id": "transport"
-}, {
-    "id": "networks"
 }]
