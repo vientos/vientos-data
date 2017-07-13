@@ -31,6 +31,7 @@
         "request": "Request",
         "collaborations": "Collaborations",
         "type-message": "Type a message",
+        "stats": "Statistics",
         "button:menu": "Menu",
         "button:clear": "Clear",
         "button:save": "Save",
@@ -81,7 +82,7 @@
         "label:open-conversations": "Open conversations",
         "label:our-turn": "Our turn",
         "label:their-turn": "Their turn",
-        "label:review-body": "Write your review",
+        "label:review-body": "(optional) Write your review",
         "label:image": "Image",
         "label:categories": "Categories",
         "label:collaboration-types": "Collaboration types",
@@ -110,7 +111,8 @@
         "subject:new-conversation": "New conversation",
         "subject:new-message": "New message",
         "subject:new-review": "New review",
-        "hint:change-turn-needs-message": "You also need to send a message to change the turn"
+        "hint:change-turn-needs-message": "You also need to send a message to change the turn",
+        "hint:rating-required": "Please rate this interaction"
     },
     "es": {
         "humanrights": "Derechos Humanos",
@@ -144,6 +146,7 @@
         "request": "Solicitud",
         "collaborations": "Colaboraciones",
         "type-message": "Escribe un mensaje",
+        "stats": "Estadísticas",
         "button:menu": "Menu",
         "button:clear": "Limpiar",
         "button:save": "Guardar",
@@ -195,7 +198,7 @@
         "label:open-conversations": "Conversaciones abiertas",
         "label:our-turn": "Nuestro turno",
         "label:their-turn": "Su turno",
-        "label:review-body": "Escribe una evaluación",
+        "label:review-body": "(opcional) Escribe una evaluación",
         "label:image": "Imagen",
         "label:categories": "Categorías",
         "label:collaboration-types": "Tipos de colaboración",
@@ -224,6 +227,7 @@
         "subject:new-conversation": "Nueva conversación",
         "subject:new-message": "Nuevo mensaje",
         "subject:new-review": "Nueva evaluación",
-        "hint:change-turn-needs-message": "También necesitas enviar un mensaje para cambiar de turno"
+        "hint:change-turn-needs-message": "También necesitas enviar un mensaje para cambiar de turno",
+        "hint:rating-required": "Por favor, evalúa esta interacción"
     }
 }
