@@ -56,7 +56,13 @@
         "button:filter-favorings": "Intents I'm interested in",
         "button:become-admin": "Become admin",
         "button:leave-admin": "Leave admin",
+        "button:deactivate": "Deactivate",
+        "button:activate": "Activate",
         "button:select-matching": "I can match this intent with an intent from my projects",
+        "button:start-conversation": "Start conversation",
+        "button:continue-conversation": "Continue conversation",
+        "button:add-intent": "Add new intent",
+        "button:list": "List",
         "label:logo-url": "Logo URL",
         "label:org-name": "Organization name",
         "label:name": "Name",
@@ -95,6 +101,8 @@
         "label:aborted-conversation": "Aborted conversation",
         "label:admins": "Administrators",
         "label:contacts-links": "Links and contacts",
+        "label:inactive-intents": "Inactive intents",
+        "label:expired-intents": "Expired intents",
         "button:reactivate": "Reactivate",
         "button:deactivate": "Deactivate",
         "button:add-link": "Add link",
@@ -112,7 +120,10 @@
         "subject:new-message": "New message",
         "subject:new-review": "New review",
         "hint:change-turn-needs-message": "You also need to send a message to change the turn",
-        "hint:rating-required": "Please rate this interaction"
+        "hint:rating-required": "Please rate this interaction",
+        "hint:inactive": "Inactive",
+        "hint:expired": "Expired",
+        "hint:to-activate-expired": "To activate, update expiry date"
     },
     "es": {
         "humanrights": "Derechos Humanos",
@@ -172,6 +183,12 @@
         "button:add-project": "Agrega un nuevo proyecto",
         "button:become-admin": "Administrar",
         "button:leave-admin": "No administrar",
+        "button:deactivate": "Desactivar",
+        "button:activate": "Activar",
+        "button:start-conversation": "Comienza una conversación",
+        "button:continue-conversation": "Continuar conversación",
+        "button:add-intent": "Nueva intención",
+        "button:list": "Lista",
         "label:logo-url": "URL del logo",
         "button:select-matching": "Puedo responder a esta intención con una de mis proyectos",
         "label:org-name": "Nombre de la Organización",
@@ -211,6 +228,8 @@
         "label:aborted-conversation": "Conversación abortada",
         "label:admins": "Administradores",
         "label:contacts-links": "Enlaces y datos de contacto",
+        "label:inactive-intents": "Intenciones inactivas",
+        "label:expired-intents": "Intenciones expiradas",
         "button:reactivate": "Reactivar",
         "button:deactivate": "Desactivar",
         "button:add-link": "Agrega Enlace",
@@ -228,6 +247,10 @@
         "subject:new-message": "Nuevo mensaje",
         "subject:new-review": "Nueva evaluación",
         "hint:change-turn-needs-message": "También necesitas enviar un mensaje para cambiar de turno",
-        "hint:rating-required": "Por favor, evalúa esta interacción"
+        "hint:rating-required": "Por favor, evalúa esta interacción",
+        "hint:inactive": "Inactiva",
+        "hint:expired": "Expirada",
+        "hint:to-activate-expired": "Para activar modifica la fecha de expiración"
+
     }
 }
