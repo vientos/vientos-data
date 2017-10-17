@@ -143,7 +143,8 @@
         "new-conversation": "Start collaboration",
         "search-and-filter": "Filter & search",
         "hint:org-categories": "Select one or more categories relevant to your project",
-        "notice:public-data": "All provided data will stay public, please don't enter any data you would not like to share openly"
+        "notice:public-data": "All provided data will stay public, please don't enter any data you would not like to share openly",
+        "guide": "Guide"
     },
     "es": {
         "humanrights": "Derechos Humanos",
@@ -364,6 +365,7 @@
         "edit-project-details": "Editor de perfil",
         "search-and-filter": "Filtrar y Buscar",
         "hint:org-categories": "Selecciona una o más categorías con las cuales el proyecto es afín",
-        "notice:public-data": "Toma en cuenta que todos los datos ingresados serán de acceso público"
+        "notice:public-data": "Toma en cuenta que todos los datos ingresados serán de acceso público",
+        "guide": "Guía"
     }
 }
