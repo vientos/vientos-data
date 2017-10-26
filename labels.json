@@ -1,4 +1,4 @@
-  {
+{
     "en": {
         "humanrights": "Human Rights",
         "productsservices": "Products and services",
@@ -55,10 +55,7 @@
         "button:send": "Send",
         "button:add-project": "Add new project",
         "button:filter-favorings": "Intents I'm interested in",
-        "button:become-admin": "Become admin",
-        "button:leave-admin": "Leave admin",
-        "button:deactivate": "Deactivate",
-        "button:activate": "Activate",
+        "label:admin-intent": "Become admin",
         "button:select-matching": "I can match this intent with an intent from my projects",
         "button:start-conversation": "Start conversation",
         "button:continue-conversation": "Continue conversation",
@@ -112,8 +109,7 @@
         "label:inactive-intents": "Inactive intents",
         "label:expired-intents": "Expired intents",
         "label:search": "Search",
-        "button:reactivate": "Reactivate",
-        "button:deactivate": "Deactivate",
+        "label:active": "Active",
         "button:add-link": "Add link",
         "button:add-contact": "Add contact",
         "button:add-location": "Add location",
@@ -144,7 +140,8 @@
         "search-and-filter": "Filter & search",
         "hint:org-categories": "Select one or more categories relevant to your project",
         "notice:public-data": "All provided data will stay public, please don't enter any data you would not like to share openly",
-        "guide": "Guide"
+        "guide": "Guide",
+	"label:short-day": "d"
     },
     "es": {
         "humanrights": "Derechos Humanos",
@@ -203,10 +200,7 @@
         "button:review": "Evaluar",
         "button:send": "Enviar",
         "button:add-project": "Agrega un nuevo proyecto",
-        "button:become-admin": "Administrar",
-        "button:leave-admin": "No administrar",
-        "button:deactivate": "Desactivar",
-        "button:activate": "Activar",
+        "label:admin-intent": "Administrar",
         "button:start-conversation": "Comienza una conversación",
         "button:continue-conversation": "Continuar conversación",
         "button:add-intent": "Nueva intención",
@@ -260,8 +254,7 @@
         "label:inactive-intents": "Intenciones inactivas",
         "label:expired-intents": "Intenciones expiradas",
         "label:search": "Busca",
-        "button:reactivate": "Reactivar",
-        "button:deactivate": "Desactivar",
+        "label:active": "Activa",
         "button:add-link": "Agrega Enlace",
         "button:add-contact": "Agrega Contacto",
         "button:add-location": "Agrega locación",
@@ -366,6 +359,7 @@
         "search-and-filter": "Filtrar y Buscar",
         "hint:org-categories": "Selecciona una o más categorías con las cuales el proyecto es afín",
         "notice:public-data": "Toma en cuenta que todos los datos ingresados serán de acceso público",
-        "guide": "Guía"
+        "guide": "Guía",
+	"label:short-day": "d"
     }
 }
