@@ -1,0 +1,12 @@
+{
+  "en": {
+    "subject:new-conversation": "New conversation",
+    "subject:new-message": "New message",
+    "subject:new-review": "New review"
+  },
+  "es": {
+    "subject:new-conversation": "Nueva conversación",
+    "subject:new-message": "Nuevo mensaje",
+    "subject:new-review": "Nueva evaluación"
+  }
+}
