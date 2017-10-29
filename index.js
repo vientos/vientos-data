@@ -1,4 +1,7 @@
 module.exports = {
   categories: require('./categories.json'),
-  labels: require('./labels.json')
+  labels: {
+    app: require('./labels/app.json'),
+    service: require('./labels/service.json')
+  }
 }
