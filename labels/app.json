@@ -138,7 +138,8 @@
     "hint:org-categories": "Select one or more categories relevant to your project",
     "notice:public-data": "All provided data will stay public, please don't enter any data you would not like to share openly",
     "guide": "Guide",
-    "label:short-day": "d"
+    "label:short-day": "d",
+    "label:custom-map-boundries": "current map boundries"
   },
   "es": {
     "humanrights": "Derechos Humanos",
@@ -354,6 +355,7 @@
     "hint:org-categories": "Selecciona una o más categorías con las cuales el proyecto es afín",
     "notice:public-data": "Toma en cuenta que todos los datos ingresados serán de acceso público",
     "guide": "Guía",
-    "label:short-day": "d"
+    "label:short-day": "d",
+    "label:custom-map-boundries": "Limites actuales del mapa"
   }
 }
