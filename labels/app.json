@@ -143,7 +143,17 @@
     "notice:public-data": "All provided data will stay public, please don't enter any data you would not like to share openly",
     "guide": "Guide",
     "label:short-day": "d",
-    "label:custom-map-boundries": "current map boundries"
+    "label:custom-map-boundries": "current map boundries",
+    "toast:personal-filter-enabled": "Personal filter enabled",
+    "toast:personal-filter-disabled": "Personal filter disabled",
+    "toast:organization-saved": "Organization saved",
+    "toast:review-saved": "Review submitted",
+    "toast:followed": "Followed",
+    "toast:unfollowed": "Unfollowed",
+    "toast:favored": "Bookmarked",
+    "toast:unfavored": "Bookmark removed",
+    "toast:account-settings-saved": "Account settings saved",
+    "toast:proposal-saved": "Proposal saved"
   },
   "es": {
     "humanrights": "Derechos Humanos",
@@ -364,6 +374,16 @@
     "notice:public-data": "Toma en cuenta que todos los datos ingresados serán de acceso público",
     "guide": "Guía",
     "label:short-day": "d",
-    "label:custom-map-boundries": "Limites actuales del mapa"
+    "label:custom-map-boundries": "Limites actuales del mapa",
+    "toast:personal-filter-enabled": "Filtro personal activado",
+    "toast:personal-filter-disabled": "Filtro personal desactivado",
+    "toast:organization-saved": "Organización guardada",
+    "toast:review-saved": "Evaluación enviada",
+    "toast:followed": "Siguiendo",
+    "toast:unfollowed": "No siguiendo",
+    "toast:favored": "Apartada",
+    "toast:unfavored": "No apartada",
+    "toast:account-settings-saved": "Configuración personal guardada",
+    "toast:proposal-saved": "Propuesta guardada"
   }
 }
