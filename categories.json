@@ -1,25 +1,14 @@
-[{
-  "id": "humanrights"
-}, {
-    "id": "environment"
-}, {
-    "id": "artculture"
-}, {
-    "id": "gender"
-}, {
-    "id": "health"
-}, {
-    "id": "education"
-}, {
-    "id": "food"
-}, {
-    "id": "housing"
-}, {
-    "id": "clothing"
-}, {
-    "id": "communication"
-}, {
-    "id": "technology"
-}, {
-    "id": "transport"
-}]
+[
+  {"id": "recreation"},
+  {"id": "environment"},
+  {"id": "art"},
+  {"id": "gender"},
+  {"id": "health"},
+  {"id": "education"},
+  {"id": "food"},
+  {"id": "territory"},
+  {"id": "crafts"},
+  {"id": "communication"},
+  {"id": "technology"},
+  {"id": "mobility"}
+]
